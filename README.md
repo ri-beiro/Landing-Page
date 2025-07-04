@@ -8,13 +8,9 @@ Este projeto é uma landing page desenvolvida como parte do desafio da **Digital
 - CSS3
 - Git & GitHub
 
-## 📸 Preview
-
-![Screenshot do Projeto](./assets/images/screenshot.png)
-
 ## 🌐 Acesse o Projeto
 
-👉 [Clique aqui para visualizar no GitHub Pages](https://ri-beiro.github.io/Landing-Page)
+👉 [Clique aqui para visualizar no GitHub Pages]([https://ri-beiro.github.io/Landing-Page](https://github.com/ri-beiro/Landing-Page/tree/main))
 
 ## 🔧 Como Rodar Localmente
 
