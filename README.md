@@ -10,7 +10,7 @@ Este projeto é uma landing page desenvolvida como parte do desafio da **Digital
 
 ## 🌐 Acesse o Projeto
 
-👉 [Clique aqui para visualizar no GitHub Pages]([https://ri-beiro.github.io/Landing-Page](https://github.com/ri-beiro/Landing-Page/tree/main))
+👉 [Clique aqui para visualizar no GitHub Pages](https://github.com/ri-beiro/Landing-Page/tree/main)
 
 ## 🔧 Como Rodar Localmente
 
